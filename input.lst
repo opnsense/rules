@@ -1,0 +1,37 @@
+# Suricata Rule Input
+#
+# This file is used by surigen to create
+# corresponding rulesets. Format is:
+#
+# Application classid FQDN
+#
+# For Facebook you would typically use:
+# Facebook social-media facebook.com
+# Facebook social-media fbcdn.net
+#
+# For a complete list of classid's look
+# at https://github.com/opnsense/rules/
+#
+##############
+# social-media
+##############
+Classmates social-media classmates.com
+Facebook social-media facebook.com
+Facebook social-media facebook.net
+Facebook social-media fbcdn.net
+Foursquare social-media foursquare.com
+Friendster social-media friendster.com
+Google_plus social-media plus.google.com
+Instagram social-media instagram.com
+LinkedIn social-media linkedin.com
+match_com social-media match.com
+MySpace social-media myspace.com
+MySpace social-media myspacecdn.com
+Orkut social-media orkut.com
+Pinterest social-media pinterest.com
+Reddit social-media reddit.com
+Renren social-media renren.com
+TwitPic social-media twitpic.com
+Twitter social-media twitter.com
+VKontakte social-media vkontakte.ru
+Xing social-media xing.com
