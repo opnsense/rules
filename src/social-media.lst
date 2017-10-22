@@ -1,20 +1,3 @@
-# Suricata Rule Input
-#
-# This file is used by surigen to create
-# corresponding rulesets. Format is:
-#
-# Application classid FQDN
-#
-# For Facebook you would typically use:
-# Facebook social-media facebook.com
-# Facebook social-media fbcdn.net
-#
-# For a complete list of classid's look
-# at https://github.com/opnsense/rules/
-#
-##############
-# social-media
-##############
 Classmates social-media classmates.com
 Facebook social-media facebook.com
 Facebook social-media facebook.net
