@@ -12,7 +12,7 @@ media-streaming (streaming, like youtube or shoutcast)
 social-networking (facebook, google+)
 messaging (ICQ, whatsapp)
 mail (gmail, yahoo mail, mail.ru)
-games (Zynga, battle.net)
+uncategorized (Zynga, Amazon, etc. Please add your favorites)
 ```
 
 To add more applications to the ruleset please fork this repository and only edit the .lst files.
