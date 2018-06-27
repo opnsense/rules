@@ -4,7 +4,7 @@
 
 If you are searching for an easy way to block specific applications like Youtube or Netflix this is the right resource for you.
 
-We have categorized the rules in seven categories:
+We have categorized the rules in six categories:
 
 ```
 file-transfer (file sharing in general)
