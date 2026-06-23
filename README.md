@@ -33,5 +33,3 @@ a sorting is not possible since our rule generator counts the rules always one u
 This would mix up your existing configuration. 
 
 Feel free to add new applications and rules to our ruleset!
-
-
