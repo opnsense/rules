@@ -2,17 +2,17 @@
 
 ## Welcome to the OPNsense IDS/IPS Application Detection rules!
 
-If you are searching for an easy way to block specific applications like Youtube or Netflix this is the right resource for you.
+If you are searching for an easy way to block specific applications like YouTube or Netflix this is the right resource for you.
 
 We have categorized the rules in six categories:
 
 ```
 file-transfer (file sharing in general)
 media-streaming (streaming, like youtube or shoutcast)
-social-networking (facebook, google+)
+social-networking (facebook, twitter)
 messaging (ICQ, whatsapp)
 mail (gmail, yahoo mail, mail.ru)
-uncategorized (Zynga, Amazon, etc. Please add your favorites)
+adult
 ```
 
 To add more applications to the ruleset please fork this repository and only edit the .lst files.
