@@ -1,6 +1,0 @@
-#alert dns any any -> any 53 (msg:"OPN_Uncategorized - Youporn - DNS request for youporn.com"; dns_query; content:"youporn.com"; nocase; classtype:uncategorized; sid:56000000;)
-#alert http any any -> any $HTTP_PORTS (msg:"OPN_Uncategorized - Youporn - Related URL (youporn.com)"; content:"youporn.com"; http_uri; flow:to_server,established; classtype:uncategorized; sid:56000001; rev:1;)
-#alert tls any any -> any any (msg:"OPN_Uncategorized - Youporn - Related TLS SNI (youporn.com)"; tls_sni; content:"youporn.com";flow:to_server,established; classtype:uncategorized; sid:56000002; rev:1;)
-#alert dns any any -> any 53 (msg:"OPN_Uncategorized - PornHub - DNS request for pornhub.com"; dns_query; content:"pornhub.com"; nocase; classtype:uncategorized; sid:56000003;)
-#alert http any any -> any $HTTP_PORTS (msg:"OPN_Uncategorized - PornHub - Related URL (pornhub.com)"; content:"pornhub.com"; http_uri; flow:to_server,established; classtype:uncategorized; sid:56000004; rev:1;)
-#alert tls any any -> any any (msg:"OPN_Uncategorized - PornHub - Related TLS SNI (pornhub.com)"; tls_sni; content:"pornhub.com";flow:to_server,established; classtype:uncategorized; sid:56000005; rev:1;)
