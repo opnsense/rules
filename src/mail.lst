@@ -22,31 +22,31 @@ Apple_Mail mail mail.me.com
 Hushmail mail hushmail.com
 T-Online_Mail mail e-mail.t-online.de
 Apple_Mail mail mail.mac.com
-iCloud_Mail mail icloud.com
+# DEPRECATED: iCloud_Mail mail icloud.com
 iCloud_Mail mail mail.icloud.com
 ProtonMail mail proton.me
 ProtonMail mail protonmail.com
 ProtonMail mail protonmail.ch
-Zoho_Mail mail zoho.com
+Zoho_Mail mail mail.zoho.eu
 Zoho_Mail mail mail.zoho.com
-Zoho_Mail mail zoho.eu
+Zoho_Mail mail mail.zoho.in
 Fastmail mail fastmail.com
 Fastmail mail fastmail.fm
 Tuta mail tuta.com
 Tuta mail tutanota.com
 Yandex_Mail mail mail.yandex.ru
 Yandex_Mail mail mail.yandex.com
-Yandex_Mail mail yandex.ru
-Yandex_Mail mail yandex.com
+# DEPRECATED: Yandex_Mail mail yandex.ru
+# DEPRECATED: Yandex_Mail mail yandex.com
 Hey mail hey.com
 Mailbox.org mail mailbox.org
 Web.de mail web.de
 GMX mail gmx.com
 StartMail mail startmail.com
 Mail.com mail mail.com
-Yahoo_Mail mail yahoo.com
+Yahoo_Mail mail mail.yahoo.fr
 Yahoo_Mail mail mail.yahoo.co.jp
-Yahoo_Mail mail yahoo.co.jp
+Yahoo_Mail mail mail.yahoo.es
 Yahoo_Mail mail mail.yahoo.co.uk
 Comcast_Mail mail connect.xfinity.com
 Spectrum_Mail mail webmail.spectrum.net
@@ -61,3 +61,11 @@ Virgin_Media_Mail mail mail2.virginmedia.com
 Orange_Mail mail messagerie.orange.fr
 SFR_Mail mail messagerie.sfr.fr
 Libero_Mail mail mail.libero.it
+Yahoo_Mail mail mail.yahoo.it
+Yahoo_Mail mail mail.yahoo.com.br
+Yahoo_Mail mail mail.yahoo.in
+Yahoo_Mail mail mail.yahoo.com.au
+Yahoo_Mail mail ymail.com
+Yahoo_Mail mail rocketmail.com
+Zoho_Mail mail mail.zoho.com.au
+Zoho_Mail mail mail.zoho.jp
