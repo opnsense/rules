@@ -22,6 +22,7 @@ Apple_Mail mail mail.me.com
 Hushmail mail hushmail.com
 T-Online_Mail mail e-mail.t-online.de
 Apple_Mail mail mail.mac.com
+# DEPRECATED: iCloud_Mail mail icloud.com
 iCloud_Mail mail mail.icloud.com
 ProtonMail mail proton.me
 ProtonMail mail protonmail.com
@@ -35,6 +36,8 @@ Tuta mail tuta.com
 Tuta mail tutanota.com
 Yandex_Mail mail mail.yandex.ru
 Yandex_Mail mail mail.yandex.com
+# DEPRECATED: Yandex_Mail mail yandex.ru
+# DEPRECATED: Yandex_Mail mail yandex.com
 Hey mail hey.com
 Mailbox.org mail mailbox.org
 Web.de mail web.de
